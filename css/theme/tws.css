@@ -1,5 +1,5 @@
 /**
- * Solarized Light theme for reveal.js.
+ * Wilderness Society Light theme for reveal.js.
  * Author: Achim Staebler
  */
 @import url(../../lib/font/league-gothic/league-gothic.css);
@@ -222,6 +222,11 @@ body {
 .reveal .roll span:after {
   color: #fff;
   background: #1a6091; }
+
+/*********************************************
+ * MAPS
+ *********************************************/
+
 
 /*********************************************
  * IMAGES
