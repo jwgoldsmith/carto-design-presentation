@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "officeName": "National Headquarters",
+        "address": "1615 M Street, NW",
+        "city": "Washington",
+        "state": "DC",
+        "zipcode": 20036,
+        "phone": "800-843-9453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0333009,
+          38.876429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "officeName": "Alaska Headquarters",
+        "address": "705 Christensen Drive",
+        "city": "Anchorage",
+        "state": "AK",
+        "zipcode": 99501,
+        "phone": "907-272-9453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.4936733,
+          64.2008413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "officeName": "California/Nevada Headquarters",
+        "address": "250 Montgomery Street, Suite 210",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipcode": 94104,
+        "phone": "415-398-1111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.4179324,
+          36.778261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "officeName": "Los Angeles Office",
+        "address": "117 East Colorado Blvd., Suite 640",
+        "city": "Pasadena",
+        "state": "CA",
+        "zipcode": 91105,
+        "phone": "213-514-4030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.1479561,
+          34.1461052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "officeName": "Denver Office",
+        "address": "1660 Wynkoop Street, Suite 850",
+        "city": "Denver",
+        "state": "CO",
+        "zipcode": 80202,
+        "phone": "303-650-5818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0001225,
+          39.7520917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "officeName": "Durango Office",
+        "address": "1309 East 3rd Avenue, Suite 36",
+        "city": "Durango",
+        "state": "CO",
+        "zipcode": 81301,
+        "phone": "970-247-8788"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8770452,
+          37.277623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "officeName": "Montana Headquarters",
+        "address": "503 West Mendenhall Street",
+        "city": "Bozeman",
+        "state": "MT",
+        "zipcode": 59715,
+        "phone": "406-586-1600"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3625658,
+          46.8796822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "officeName": "North Carolina Headquarters",
+        "address": "474 West Main Street",
+        "city": "Sylva",
+        "state": "NC",
+        "zipcode": 28779,
+        "phone": "828-587-9453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0192997,
+          35.7595731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "officeName": "Idaho Headquarters",
+        "address": "950 West Bannock Street, Suite 605",
+        "city": "Boise",
+        "state": "ID",
+        "zipcode": 83702,
+        "phone": "208-343-8153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.7420408,
+          44.0682019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "officeName": "New Mexico Headquarters",
+        "address": "3602 Campus Blvd. NE",
+        "city": "Albuquerque",
+        "state": "NM",
+        "zipcode": 87106,
+        "phone": "505-247-0834"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5531935,
+          35.1508175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "officeName": "Washington Headquarters",
+        "address": "720 3rd Ave, Suite 1410",
+        "city": "Seattle",
+        "state": "WA",
+        "zipcode": 98104,
+        "phone": "206-624-6430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0368707,
+          38.9071923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "officeName": "Maine Office",
+        "address": "9 Union Street, Second Floor",
+        "city": "Hallowell",
+        "state": "ME",
+        "zipcode": 4347,
+        "phone": " 207-240-8034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.4454689,
+          45.253783
+        ]
+      }
+    }
+  ]
+}
